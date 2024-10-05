@@ -1,0 +1,10 @@
+
+///  compress .zip
+zip -r kompres.zip foldertozip/
+//  ucompres
+unzip -l files.zip
+
+/// compress .tar.xz
+tar --xz -cf kompres.tar.xz foldertozip/
+/// uncompress
+tar -xvf kompres.tar.xz
