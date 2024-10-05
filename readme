@@ -2,7 +2,7 @@
 ///  compress .zip
 zip -r kompres.zip foldertozip/
 //  ucompres
-unzip -l files.zip
+unzip files.zip
 
 /// compress .tar.xz
 tar --xz -cf kompres.tar.xz foldertozip/
